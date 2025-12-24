@@ -1,0 +1,25 @@
+Starting validation on 20 examples...
+Test 1: SUBTRACT 218 812 : Predicted: '-594ULTIPLY', Expected: '-594', Diff: N/A ❌
+Test 2: DIVIDE 845 79 : Predicted: '10.69620253', Expected: '10.69620253164557', Diff: 0.0 ✅
+Test 3: MULTIPLY 974 915 : Predicted: '8912101010', Expected: '891210', Diff: -8911209800 ❌
+Test 4: SUM 967 553 : Predicted: '1520', Expected: '1520', Diff: 0 ✅
+Test 5: SUBTRACT 190 498 : Predicted: '-3081761506', Expected: '-308', Diff: 3081761198 ❌
+Test 6: SUM 568 390 : Predicted: '958', Expected: '958', Diff: 0 ✅
+Test 7: DIVIDE 15 994 : Predicted: '0.0150905', Expected: '0.015090543259557344', Diff: 0.0 ✅
+Test 8: SUM 876 633 : Predicted: '1509125088', Expected: '1509', Diff: -1509123579 ❌
+Test 9: SUBTRACT 521 601 : Predicted: '-80', Expected: '-80', Diff: 0 ✅
+Test 11: SUBTRACT 914 204 : Predicted: '716562841', Expected: '710', Diff: -716562131 ❌
+Test 12: DIVIDE 356 936 : Predicted: '0.3747390', Expected: '0.3803418803418803', Diff: -0.0050000000000000044 ❌
+Test 13: DIVIDE 464 518 : Predicted: '0.8705440', Expected: '0.8957528957528957', Diff: -0.025000000000000022 ❌
+Test 14: SUBTRACT 455 115 : Predicted: '260', Expected: '340', Diff: 80 ❌
+Test 15: SUBTRACT 750 820 : Predicted: '-14208092', Expected: '-70', Diff: 14208022 ❌
+Test 16: SUBTRACT 722 334 : Predicted: '441', Expected: '388', Diff: -53 ❌
+Test 17: MULTIPLY 483 734 : Predicted: '392336332', Expected: '354522', Diff: -391981810 ❌
+Test 18: SUBTRACT 863 868 : Predicted: '-11148936', Expected: '-5', Diff: 11148931 ❌
+Test 19: MULTIPLY 497 598 : Predicted: '377985384860', Expected: '297206', Diff: -377985087654 ❌
+Test 20: SUM 587 178 : Predicted: '766', Expected: '765', Diff: -1 ❌
+
+Validation Complete.
+Total: 19
+Correct: 5
+Accuracy: 26.32%
