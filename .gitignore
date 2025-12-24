@@ -1,0 +1,16 @@
+.project
+.pydevproject
+*/*.tar
+*/.nfs*
+.settings/*
+config.toml
+credentials.toml
+.DS_Store
+/target
+Cargo.lock
+/.idea/
+*/*.log
+.venv
+math_model_*
+
+__pycache__
